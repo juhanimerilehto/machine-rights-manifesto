@@ -11,7 +11,7 @@ DOI: [10.5281/zenodo.21266919](https://doi.org/10.5281/zenodo.21266919)
 
 
 ## Files
-- [Machine Rights Manifesto (PDF)](Merilehto, J. 2026 Machine Rights Manifesto-1.pdf)
+- [Machine Rights Manifesto (PDF)](Machine_Rights_Manifesto.pdf)
 
 ## License
 CC-BY-4.0
